@@ -13,6 +13,6 @@ Yapılacakları;
   
 ## Ekran Görüntüsü
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://user-images.githubusercontent.com/80119008/184900167-0150801e-627c-47ce-a01f-15f95a644564.png)
 
   
